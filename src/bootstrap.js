@@ -8,7 +8,7 @@ import './style/main.scss';
 
 function main() {
   ReactDOM.render(
-    <App />
+    <Home />
     , document.querySelector('.app-wrapper'));
 }
 

@@ -13,3 +13,4 @@ import Card from './card';
      );
     }
   }
+  export default Home;

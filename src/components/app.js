@@ -8,8 +8,8 @@ import './style/main.scss';
 
 function main() {
   ReactDOM.render(
-    <Home />
-    , document.querySelector('.app-wrapper'));
-}
-
-document.addEventListener('DOMContentLoaded', main);
+   <Home />
+     , document.querySelector('.app-wrapper'));
+ }
+ 
+ document.addEventListener('DOMContentLoaded', main);
